@@ -1,0 +1,26 @@
+{
+  "name": "kalkulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tlyko"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Tomasz Lyko",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "gulp-scss": "^1.4.0"
+  }
+}
